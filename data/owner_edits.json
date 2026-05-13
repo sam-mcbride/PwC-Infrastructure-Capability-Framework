@@ -18,14 +18,19 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I Strategy",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I Strategy",
         "status": "scale"
+      },
+      {
+        "poc": "Meredith Strong",
+        "team": "ESG & Sustainability / CP&I Strategy",
+        "status": "enhance"
       }
     ]
   },
@@ -43,7 +48,7 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Kyle West",
         "team": "Deals / Tax",
         "status": "enhance"
       },
@@ -53,7 +58,7 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Tiffany Chu",
         "team": "Transfer Pricing / Infrastructure Tax",
         "status": "scale"
       },
@@ -63,7 +68,7 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Tiffany Chu",
         "team": "Trade & Customs",
         "status": "enhance"
       }
@@ -74,22 +79,22 @@
     "items": [
       {
         "poc": "Tom Hylton",
-        "team": "Deals — Capital Markets",
+        "team": "Deals â Capital Markets",
         "status": "scale"
       },
       {
         "poc": "Tom Hylton",
-        "team": "Deals — Capital Markets",
+        "team": "Deals â Capital Markets",
         "status": "scale"
       },
       {
         "poc": "Kyle West",
-        "team": "Deals — FDD",
+        "team": "Deals â FDD",
         "status": "scale"
       },
       {
         "poc": "Tiffany Chu",
-        "team": "Deals — Tax DD",
+        "team": "Deals â Tax DD",
         "status": "scale"
       },
       {
@@ -98,23 +103,23 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Ulteig Engineering JBR",
         "team": "CP&I / Engineering",
         "status": "evaluate"
       },
       {
-        "poc": "",
-        "team": "Deals — Valuation",
+        "poc": "Kyle West",
+        "team": "Deals â Valuation",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Kyle West",
         "team": "Deals / Strategy&",
         "status": "scale"
       },
       {
-        "poc": "",
-        "team": "Deals — Integration",
+        "poc": "Kyle West",
+        "team": "Deals â Integration",
         "status": "enhance"
       }
     ]
@@ -128,32 +133,32 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "Risk & Regulatory",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "Risk & Regulatory",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I / Government Affairs",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Michael Kohl",
         "team": "Workforce Transformation",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Michael Kohl",
         "team": "Workforce Transformation",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Meredith Strong",
         "team": "ESG & Sustainability",
         "status": "scale"
       },
@@ -168,7 +173,7 @@
         "status": "evaluate"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "Risk Advisory",
         "status": "scale"
       }
@@ -193,12 +198,12 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I / Procurement",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I Delivery",
         "status": "enhance"
       },
@@ -228,7 +233,7 @@
         "status": "evaluate"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I / Deals",
         "status": "scale"
       }
@@ -243,7 +248,7 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Matt Cardamone",
         "team": "Digital / Data Analytics",
         "status": "scale"
       },
@@ -263,7 +268,7 @@
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Matt Cardamone",
         "team": "Digital / Data Analytics",
         "status": "scale"
       }
@@ -273,27 +278,27 @@
     "id": "operations",
     "items": [
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I Delivery / Operations",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I / Asset Management",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Meredith Strong",
         "team": "Sustainability / Operations",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Erika Ryback",
         "team": "CMAAS / Assurance",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Erika Ryback",
         "team": "Internal Audit Services",
         "status": "scale"
       },
@@ -303,32 +308,32 @@
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Tiffany Chu",
         "team": "Trade & Customs",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Meredith Strong",
         "team": "ESG & Sustainability",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Meredith Strong",
         "team": "Cybersecurity & Privacy",
         "status": "enhance"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I / Asset Management",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Daryl Walcroft",
         "team": "CP&I / Environmental",
         "status": "scale"
       },
       {
-        "poc": "",
+        "poc": "Michael Kohl",
         "team": "Operations Consulting",
         "status": "enhance"
       }
