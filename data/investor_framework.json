@@ -145,7 +145,7 @@
           "end": 1,
           "status": "scale",
           "poc": "Tom Hylton",
-          "team": "Deals — Infrastructure",
+          "team": "Deals - Infrastructure",
           "q": [
             "Is our investment thesis differentiated, and can we articulate it in a way that resonates with target LPs?",
             "Are we disciplined about staying within our mandate, or drifting into opportunistic deals?"
@@ -157,7 +157,7 @@
           "end": 2,
           "status": "scale",
           "poc": "Tom Hylton",
-          "team": "Deals — Infrastructure",
+          "team": "Deals - Infrastructure",
           "q": [
             "Is our portfolio construction aligned with our fund thesis and LP expectations for diversification?",
             "Are we concentrating risk in ways we’ve explicitly decided to, or inadvertently?"
@@ -181,9 +181,9 @@
           "end": 0,
           "status": "scale",
           "poc": "Tom Hylton",
-          "team": "Deals — Capital Markets",
+          "team": "Deals - Capital Markets",
           "q": [
-            "Are we positioned competitively for the next fund raise — what’s our track record story and how does it compare to peers?",
+            "Are we positioned competitively for the next fund raise - what’s our track record story and how does it compare to peers?",
             "Are we targeting the right LP segments with the right fund terms, and is our marketing material compelling?"
           ]
         },
@@ -200,9 +200,9 @@
           ]
         }
       ],
-      "risk": "Raising a fund without a differentiated thesis, or deploying capital into opportunities that don’t match LP expectations — eroding credibility for the next fundraise before the current one is fully deployed.",
+      "risk": "Raising a fund without a differentiated thesis, or deploying capital into opportunities that don’t match LP expectations - eroding credibility for the next fundraise before the current one is fully deployed.",
       "lq": [
-        "Is our investment thesis differentiated enough to win capital in a competitive fundraise — and can we demonstrate the track record to back it up?",
+        "Is our investment thesis differentiated enough to win capital in a competitive fundraise - and can we demonstrate the track record to back it up?",
         "Are we deploying capital with the discipline to say no when an opportunity doesn’t fit the thesis, even when deal flow is thin?"
       ]
     },
@@ -231,7 +231,7 @@
           "poc": "Tiffany Chu",
           "team": "Infrastructure Tax",
           "q": [
-            "Are we addressing the specific tax needs of each investor type — pension, SWF, HNWI, retail?",
+            "Are we addressing the specific tax needs of each investor type - pension, SWF, HNWI, retail?",
             "Could our structure inadvertently create UBTI or other issues for tax-exempt investors?"
           ]
         },
@@ -316,7 +316,7 @@
           "team": "Infrastructure Tax / M&A Tax",
           "q": [
             "Are we planning exit tax strategy early enough to maximize after-tax proceeds?",
-            "Have we modeled the tax impact of different exit structures — sale, IPO, recapitalization?"
+            "Have we modeled the tax impact of different exit structures - sale, IPO, recapitalization?"
           ]
         },
         {
@@ -344,9 +344,9 @@
           ]
         }
       ],
-      "risk": "Fund structures that create friction with target investors, or asset-level tax strategies that don’t flow benefits efficiently to LPs — leaving value trapped between layers of the structure.",
+      "risk": "Fund structures that create friction with target investors, or asset-level tax strategies that don’t flow benefits efficiently to LPs - leaving value trapped between layers of the structure.",
       "lq": [
-        "Is our fund structure creating barriers for the LP segments we most want to attract — and would a restructuring unlock meaningful new capital?",
+        "Is our fund structure creating barriers for the LP segments we most want to attract - and would a restructuring unlock meaningful new capital?",
         "Are we capturing tax value at the asset level and flowing it through to investors efficiently, or is value leaking between layers of our structure?"
       ]
     },
@@ -361,7 +361,7 @@
           "end": 2,
           "status": "scale",
           "poc": "Tom Hylton",
-          "team": "Deals — Capital Markets",
+          "team": "Deals - Capital Markets",
           "q": [
             "Are we raising at the right valuation with the right partners?",
             "Is our capital raising timeline creating pressure that leads to suboptimal terms?"
@@ -373,7 +373,7 @@
           "end": 2,
           "status": "scale",
           "poc": "Tom Hylton",
-          "team": "Deals — Capital Markets",
+          "team": "Deals - Capital Markets",
           "q": [
             "Is our leverage appropriate for the asset risk profile?",
             "Have we stress-tested covenant headroom under realistic downside scenarios?"
@@ -385,10 +385,10 @@
           "end": 2,
           "status": "scale",
           "poc": "Kyle West",
-          "team": "Deals — FDD",
+          "team": "Deals - FDD",
           "q": [
             "Are the seller’s financials telling the full story, or are there normalization adjustments we’re missing?",
-            "Does the asset demonstrate key attributes of infrastructure — barriers to entry, competitive moat, asset intensity, long-term contracts, minimal volumetric or price risk, inflation linkage, and downside protection?"
+            "Does the asset demonstrate key attributes of infrastructure - barriers to entry, competitive moat, asset intensity, long-term contracts, minimal volumetric or price risk, inflation linkage, and downside protection?"
           ]
         },
         {
@@ -397,10 +397,10 @@
           "end": 2,
           "status": "scale",
           "poc": "Tiffany Chu",
-          "team": "Deals — Tax DD",
+          "team": "Deals - Tax DD",
           "q": [
             "What tax exposures are embedded in this target, and how do they affect post-close economics?",
-            "Are there tax attributes — NOLs, credits, step-ups — we can capture in the deal?"
+            "Are there tax attributes - NOLs, credits, step-ups - we can capture in the deal?"
           ]
         },
         {
@@ -411,7 +411,7 @@
           "poc": "Kyle West",
           "team": "Strategy& / Deals",
           "q": [
-            "Is the revenue base sustainable — are customer contracts, market position, and demand drivers robust?",
+            "Is the revenue base sustainable - are customer contracts, market position, and demand drivers robust?",
             "What’s the competitive moat, and how durable is it over our hold period?"
           ]
         },
@@ -424,7 +424,7 @@
           "team": "CP&I / Engineering",
           "q": [
             "What’s the true CapEx requirement to maintain or improve this asset to our standards?",
-            "Are there hidden technical risks — deferred maintenance, code violations, capacity limits?"
+            "Are there hidden technical risks - deferred maintenance, code violations, capacity limits?"
           ]
         },
         {
@@ -433,7 +433,7 @@
           "end": 4,
           "status": "scale",
           "poc": "Kyle West",
-          "team": "Deals — Valuation",
+          "team": "Deals - Valuation",
           "q": [
             "Is our valuation methodology consistent across the portfolio and defensible to LPs and auditors?",
             "Are we anchoring to comparable transactions, or building bottom-up with defensible assumptions?"
@@ -457,9 +457,9 @@
           "end": 2,
           "status": "scale",
           "poc": "Kyle West",
-          "team": "Deals — M&A",
+          "team": "Deals - M&A",
           "q": [
-            "Are our deal protections — reps, warranties, indemnities — calibrated to the risk?",
+            "Are our deal protections - reps, warranties, indemnities - calibrated to the risk?",
             "Are we leaving value on the table in the SPA, or creating friction that could kill the deal?"
           ]
         },
@@ -469,10 +469,10 @@
           "end": 3,
           "status": "enhance",
           "poc": "Kyle West",
-          "team": "Deals — Integration",
+          "team": "Deals - Integration",
           "q": [
             "Do we have a value creation plan from day one, and who is accountable for execution?",
-            "Are we integrating at the right pace — fast enough to capture value, slow enough to avoid disruption?"
+            "Are we integrating at the right pace - fast enough to capture value, slow enough to avoid disruption?"
           ]
         },
         {
@@ -488,9 +488,9 @@
           ]
         }
       ],
-      "risk": "Overpaying for an asset, missing diligence red flags, or closing on terms that erode returns over the hold period — turning a good thesis into a bad investment.",
+      "risk": "Overpaying for an asset, missing diligence red flags, or closing on terms that erode returns over the hold period - turning a good thesis into a bad investment.",
       "lq": [
-        "Are we underwriting to a base case that would survive scrutiny from our toughest LP — or are we relying on assumptions that make the deal work on paper?",
+        "Are we underwriting to a base case that would survive scrutiny from our toughest LP - or are we relying on assumptions that make the deal work on paper?",
         "If diligence surfaces a material issue at the eleventh hour, do we have the discipline to walk away or renegotiate rather than close a compromised deal?"
       ]
     },
@@ -556,7 +556,7 @@
           "team": "Risk Advisory",
           "q": [
             "Do we have a portfolio-wide risk view, or are we managing risk asset by asset?",
-            "Are we stress-testing the portfolio against correlated risks — rate changes, regulation, geopolitics?"
+            "Are we stress-testing the portfolio against correlated risks - rate changes, regulation, geopolitics?"
           ]
         },
         {
@@ -584,7 +584,7 @@
           ]
         }
       ],
-      "risk": "Regulatory surprises, LP trust erosion, or portfolio-level risk concentrations that aren’t visible until it’s too late — threatening fund performance and the GP’s reputation.",
+      "risk": "Regulatory surprises, LP trust erosion, or portfolio-level risk concentrations that aren’t visible until it’s too late - threatening fund performance and the GP’s reputation.",
       "lq": [
         "If a major regulatory change hit our portfolio tomorrow, do we have the governance infrastructure to assess exposure and respond across all assets in weeks, not months?",
         "Are we managing LP relationships with enough transparency that bad news is a conversation, not a crisis?"
@@ -668,10 +668,10 @@
           ]
         }
       ],
-      "risk": "Acquiring assets with a value creation thesis but lacking the operational capability or discipline to execute it — leaving underwriting assumptions unrealized at exit.",
+      "risk": "Acquiring assets with a value creation thesis but lacking the operational capability or discipline to execute it - leaving underwriting assumptions unrealized at exit.",
       "lq": [
         "Do we have a repeatable value creation playbook that works across asset types, or are we reinventing the approach with every deal?",
-        "Are we measuring value creation with the same rigor we apply to underwriting — and holding ourselves accountable when initiatives fall short?"
+        "Are we measuring value creation with the same rigor we apply to underwriting - and holding ourselves accountable when initiatives fall short?"
       ]
     },
     {
@@ -709,7 +709,7 @@
           "end": 4,
           "status": "scale",
           "poc": "Kyle West",
-          "team": "Deals — Valuation / Technology",
+          "team": "Deals - Valuation / Technology",
           "q": [
             "Is our waterfall model robust enough to handle complex multi-tier structures and edge cases?",
             "Have we stress-tested distributions under multiple performance scenarios?"
@@ -740,9 +740,9 @@
           ]
         }
       ],
-      "risk": "Operating with fragmented data across the portfolio, making it impossible to see the full picture or report with confidence — undermining LP trust and decision-making speed.",
+      "risk": "Operating with fragmented data across the portfolio, making it impossible to see the full picture or report with confidence - undermining LP trust and decision-making speed.",
       "lq": [
-        "Can we produce a reliable, portfolio-wide performance view on demand — or does every reporting cycle require manual reconciliation across disconnected systems?",
+        "Can we produce a reliable, portfolio-wide performance view on demand - or does every reporting cycle require manual reconciliation across disconnected systems?",
         "Are we investing in technology at the fund level that will scale with AUM growth, or patching together tools that will break under the weight of the next fund?"
       ]
     },
@@ -820,7 +820,7 @@
           "team": "Infrastructure Tax",
           "q": [
             "Can we defend every credit claimed across the portfolio with proper documentation?",
-            "If a portfolio company is audited, are they ready — and are we?"
+            "If a portfolio company is audited, are they ready - and are we?"
           ]
         },
         {
@@ -829,7 +829,7 @@
           "end": 4,
           "status": "scale",
           "poc": "Kyle West",
-          "team": "Deals — FDD / M&A",
+          "team": "Deals - FDD / M&A",
           "q": [
             "Are we starting exit preparation early enough to maximize competitive tension and proceeds?",
             "Would a buyer’s diligence find issues we haven’t already identified and addressed?"
@@ -848,9 +848,9 @@
           ]
         }
       ],
-      "risk": "Starting exit preparation too late, leaving value on the table, or getting surprised by issues a buyer’s diligence uncovers first — compressing proceeds and damaging track record.",
+      "risk": "Starting exit preparation too late, leaving value on the table, or getting surprised by issues a buyer’s diligence uncovers first - compressing proceeds and damaging track record.",
       "lq": [
-        "Are we actively managing each asset toward an exit thesis from acquisition — or do we start thinking about exit when the fund timeline forces it?",
+        "Are we actively managing each asset toward an exit thesis from acquisition - or do we start thinking about exit when the fund timeline forces it?",
         "If a buyer ran diligence on our top asset today, would they find issues we haven’t already identified and addressed?"
       ]
     }
