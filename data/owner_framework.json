@@ -18,8 +18,8 @@
         "Market entry & structuring",
         "Post-deal integration",
         "Governance & setup",
-        "Financial reporting & accounting",
-        "Internal audit & benchmarking",
+        "Financial reporting & technical accounting",
+        "Internal cost audit & benchmarking",
         "Climate & resilience risk screening"
       ]
     },
@@ -38,7 +38,7 @@
         "Sustainability, ESG & carbon reporting",
         "Credit substantiation & audit readiness",
         "Customs & trade compliance",
-        "Site selection",
+        "Site assessment & location advisory",
         "Business case & feasibility"
       ]
     },
@@ -65,7 +65,8 @@
         "Workforce strategy & capability building",
         "Digital program enablement",
         "Advanced analytics",
-        "Operational readiness planning"
+        "Operational readiness planning",
+        "Vendor selection"
       ]
     },
     {
@@ -76,12 +77,12 @@
         "Operational readiness planning",
         "Asset management strategy",
         "Energy management, efficiency & resilience",
-        "Financial reporting & accounting",
-        "Internal audit & benchmarking",
+        "Financial reporting & technical accounting",
+        "Internal cost audit & benchmarking",
         "Credit substantiation & audit readiness",
         "Customs & trade compliance",
         "Climate risk modeling",
-        "Cybersecurity & crisis response",
+        "Cybersecurity, data privacy & crisis response",
         "Facility operate, maintain & retire",
         "Decommissioning & disposal",
         "Operational turnaround & restructuring",
@@ -97,7 +98,7 @@
       "capabilities": [
         "Capital strategy & portfolio planning",
         "Business case & feasibility",
-        "Site selection",
+        "Site assessment & location advisory",
         "Investment prioritization",
         "Joint ventures & partnerships",
         "Entity & investor structuring",
@@ -127,32 +128,68 @@
         "Process automation & orchestration",
         "Data governance & reporting"
       ]
+    },
+    {
+      "id": "clo",
+      "label": "Chief Legal / Commercial Officer",
+      "description": "Contracting strategy, risk allocation, lease and customer terms, development agreements, power procurement terms, incentive agreements, and documentation rights",
+      "capabilities": [
+        "Business case & feasibility",
+        "Tax credits & incentives",
+        "Grants, abatements & exemptions",
+        "Joint ventures & partnerships",
+        "Entity & investor structuring",
+        "Equity raise & lead advisory",
+        "Debt raise & capital markets",
+        "Market entry & structuring",
+        "Post-deal integration",
+        "Governance & setup",
+        "Regulatory strategy",
+        "Regulatory & governance compliance",
+        "Stakeholder management",
+        "Risk management framework",
+        "Procurement strategy",
+        "Commercial management",
+        "Supply chain execution",
+        "Construction oversight",
+        "Commissioning & handover",
+        "Lender & investor technical advisory",
+        "Energy management, efficiency & resilience",
+        "Decommissioning & disposal",
+        "Vendor selection"
+      ]
     }
   ],
   "phases": [
     {
       "id": "strategy",
-      "label": "Strategy"
+      "label": "Strategy",
+      "tooltip": "Defining the investment thesis, evaluating market opportunities, screening sites, and building the business case. This is where capital allocation decisions are made and the project's strategic rationale is established."
     },
     {
       "id": "finance",
-      "label": "Finance"
+      "label": "Finance",
+      "tooltip": "Securing capital, structuring the deal, completing due diligence, and closing financing. Entity structuring, tax planning, and incentive capture strategies are locked in during this phase."
     },
     {
       "id": "plan",
-      "label": "Plan"
+      "label": "Plan",
+      "tooltip": "Standing up governance, mobilizing the project team, finalizing design, awarding contracts, and establishing the controls framework. Procurement strategy and regulatory approvals are advanced in parallel."
     },
     {
       "id": "build",
-      "label": "Build"
+      "label": "Build",
+      "tooltip": "Executing construction, managing contractors, controlling cost and schedule, and maintaining quality and safety standards. This is the highest-spend, highest-risk phase of the asset lifecycle."
     },
     {
       "id": "operate",
-      "label": "Operate"
+      "label": "Operate",
+      "tooltip": "Running the asset at design capacity, managing energy and maintenance, ensuring compliance, and optimizing performance against benchmarks. Ongoing tax compliance and credit substantiation happen here."
     },
     {
       "id": "dispose",
-      "label": "Dispose"
+      "label": "Dispose",
+      "tooltip": "Decommissioning, environmental remediation, asset sale or repurposing, and capturing lessons learned. Includes managing end-of-life contractual obligations and regulatory closeout."
     }
   ],
   "phaseColors": [
@@ -199,11 +236,11 @@
           ]
         },
         {
-          "name": "Site selection",
+          "name": "Site assessment & location advisory",
           "start": 0,
           "end": 2,
           "status": "scale",
-          "poc": "Daryl Walcroft",
+          "poc": "Erika Ryback",
           "team": "CP&I Strategy / Real Estate",
           "q": [
             "Are we evaluating sites against the full cost stack - land, power, labor, tax, permitting, resilience?",
@@ -737,6 +774,18 @@
             "Are our lenders and investors getting the independent assurance they need?",
             "Is there a gap between what we’re reporting and what they need to see?"
           ]
+        },
+        {
+          "name": "Vendor selection",
+          "start": 2,
+          "end": 3,
+          "status": "scale",
+          "poc": "Daryl Walcroft",
+          "team": "CP&I / Procurement",
+          "q": [
+            "Are we evaluating vendors against a consistent set of criteria - technical capability, financial stability, track record, and cultural fit?",
+            "Is our vendor selection process fast enough to keep pace with the project timeline without compromising rigor?"
+          ]
         }
       ]
     },
@@ -871,11 +920,11 @@
           ]
         },
         {
-          "name": "Financial reporting & accounting",
+          "name": "Financial reporting & technical accounting",
           "start": 4,
           "end": 4,
           "status": "scale",
-          "poc": "Erika Ryback",
+          "poc": "",
           "team": "CMAAS / Assurance",
           "q": [
             "Are our reporting processes efficient, or are we throwing people at close cycles?",
@@ -883,11 +932,11 @@
           ]
         },
         {
-          "name": "Internal audit & benchmarking",
+          "name": "Internal cost audit & benchmarking",
           "start": 4,
           "end": 4,
           "status": "scale",
-          "poc": "Erika Ryback",
+          "poc": "",
           "team": "Internal Audit Services",
           "q": [
             "Are we benchmarking against the right peers with the right metrics?",
@@ -931,7 +980,7 @@
           ]
         },
         {
-          "name": "Cybersecurity & crisis response",
+          "name": "Cybersecurity, data privacy & crisis response",
           "start": 4,
           "end": 4,
           "status": "enhance",
