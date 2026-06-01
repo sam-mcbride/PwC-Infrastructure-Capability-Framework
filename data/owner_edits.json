@@ -8,7 +8,7 @@
         "status": "scale"
       },
       {
-        "poc": "Daryl Walcroft",
+        "poc": "Earl Simpkins",
         "team": "CP&I Strategy",
         "status": "scale"
       },
@@ -26,6 +26,11 @@
         "poc": "Daryl Walcroft",
         "team": "CP&I Strategy",
         "status": "scale"
+      },
+      {
+        "poc": "Meredith Strong",
+        "team": "ESG & Sustainability / CP&I Strategy",
+        "status": "enhance"
       }
     ]
   },
@@ -230,6 +235,11 @@
       {
         "poc": "Daryl Walcroft",
         "team": "CP&I / Deals",
+        "status": "scale"
+      },
+      {
+        "poc": "Daryl Walcroft",
+        "team": "CP&I / Procurement",
         "status": "scale"
       }
     ]
