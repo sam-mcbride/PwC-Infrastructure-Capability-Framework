@@ -641,7 +641,7 @@
           "name": "Health & safety advisory",
           "start": 2,
           "end": 4,
-          "status": "evaluate",
+          "status": "enhance",
           "poc": "",
           "team": "Risk Advisory",
           "q": [
@@ -770,7 +770,7 @@
           "name": "Commissioning & handover",
           "start": 3,
           "end": 4,
-          "status": "evaluate",
+          "status": "enhance",
           "poc": "",
           "team": "CP&I Delivery",
           "q": [
